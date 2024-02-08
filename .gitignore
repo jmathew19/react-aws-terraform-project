@@ -25,5 +25,5 @@ yarn-error.log*
 #test folder
 test/
 
-#bing folder
-/bing
+#terraform
+terraform/
